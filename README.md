@@ -113,6 +113,8 @@ Basic understanding on DevOps Culture and OpenSource tools
 7) AWS X-Ray
 	1) What X-Ray for Developers?
 	2) X-Ray for Debugging, Tracing and Service map
+
+	testing
 	
 Note:
 1) We will be seeing and practising all from scratch.
